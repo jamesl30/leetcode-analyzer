@@ -2,7 +2,7 @@
 
 A simple web application that displays organized LeetCode profile statistics including contest performance, problems solved, and achievements.
 
-🚀 **Live Demo**: [https://leetcode-analyzer.vercel.app](https://leetcode-analyzer.vercel.app)
+🚀 **Live Demo**: [https://leetcode-analyzer-blush.vercel.app](leetcode-analyzer-blush.vercel.app)
 
 ## Features
 
